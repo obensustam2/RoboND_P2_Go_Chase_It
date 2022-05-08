@@ -15,13 +15,8 @@ The aim of the project is to make robot follow while ball by using it's camera.
 * `drive_bot`: Which drives robot respect to **/ball_chaser/command_robot** service requests.
 
 <p align="center">
-  <img width="900" height="300" src="images/rosgraph.png">
-  <br>Rosgraph
-</p>
-
-<p align="center">
-  <img width="600" height="300" src="images/frames.png">
-  <br>Frames
+  <img width="800" height="200" src="images/rosgraph.png">
+  <br>Rosgraph of the project
 </p>
 
 ## How to use
